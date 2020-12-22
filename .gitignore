@@ -3,8 +3,8 @@ logs
 *.log
 /logs
 
-# Deployment builds
-dist
+
+
 
 # Dependency directories
 node_modules
